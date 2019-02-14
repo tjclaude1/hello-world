@@ -1,7 +1,7 @@
 # hello-world
 hello-world project
 
-Good day,
+Hello there,
 
 About me, I am self-motivated and eager to learn. I love everything that is coding related.
-I thank you!
+Thank you!
